@@ -1,0 +1,6 @@
+<div>
+    <h1>Home</h1>
+    <p>
+        This is the front page to my first exercise in JavaScript 3.
+    </p>
+</div>

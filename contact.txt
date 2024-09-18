@@ -1,0 +1,8 @@
+<div>
+    <h1>Contact Form</h1>
+    <form>
+        <input type="text" name="" id=""/>
+        <input type="checkbox" name="" id=""/>
+        <input type="button" value="submit"/>
+    </form>
+</div>
