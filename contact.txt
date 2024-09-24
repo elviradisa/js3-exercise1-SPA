@@ -1,5 +1,5 @@
 <div>
-    <h1>Contact Form</h1>
+    <h1 id="header">Contact Form</h1>
     <form>
         <input type="text" name="" id=""/>
         <input type="checkbox" name="" id=""/>

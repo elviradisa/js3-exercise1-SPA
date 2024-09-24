@@ -1,5 +1,5 @@
 <div>
-    <h1>About Us</h1>
+    <h1 id="header">About Us</h1>
     <p>
         This is an SPA - Single Page Application
     </p>
